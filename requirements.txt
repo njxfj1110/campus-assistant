@@ -1,0 +1,5 @@
+# 项目运行依赖 —— 只列真正 import 到的库
+fastapi
+uvicorn
+openai
+python-dotenv

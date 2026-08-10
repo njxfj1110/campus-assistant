@@ -1,0 +1,8 @@
+# 不进镜像的文件
+.env
+.venv
+__pycache__
+.idea
+.git
+agent.log
+*.pyc
